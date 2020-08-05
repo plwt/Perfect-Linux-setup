@@ -32,6 +32,8 @@ JOSM Snap
 
 nmap Snap
 
+Zoom - from Zoom site
+
 Fx theme from https://addons.mozilla.org/en-GB/firefox/user/12371049/
 
 Desktop background from own pictures
