@@ -8,7 +8,7 @@ Download latest Tb Beta from Mozilla, install in opt
 
 Remove Fx Release
 
-sudo apt-get install git && sudo apt-get install gparted && sudo apt-get install gnome-disk-utility && sudo snap install android-studio firefox josm telegram-desktop nmap scrcpy && sudo snap connect nmap:network-control && git clone https://github.com/SeburoSUMO/scrcpy.git && git clone https://github.com/SeburoSUMO/Nightly.desktop.git && git clone https://github.com/SeburoSUMO/Thunderbird-Mail.desktop.git && wget https://download.mozilla.org/?product=firefox-nightly-latest-ssl&os=linux64&lang=en-GB
+sudo apt-get install git & sudo apt-get install gparted & sudo apt-get install gnome-disk-utility & sudo snap install android-studio firefox josm telegram-desktop nmap scrcpy & sudo snap connect nmap:network-control & git clone https://github.com/SeburoSUMO/scrcpy.git & git clone https://github.com/SeburoSUMO/Nightly.desktop.git & git clone https://github.com/SeburoSUMO/Thunderbird-Mail.desktop.git & wget https://download.mozilla.org/?product=firefox-nightly-latest-ssl&os=linux64&lang=en-GB
 
 Add ADB to Path by adding     export PATH=$PATH:$HOME"/Android/Sdk/platform-tools"       to the end of .bashrc
 
