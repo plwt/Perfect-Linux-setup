@@ -2,7 +2,7 @@
 
 Latest Xubuntu LTS
 
-sudo thunar to change permissions on opt
+```sudo thunar``` to change permissions on opt
 
 Download latest Fx Nightly from Mozilla, install in opt
 
@@ -10,19 +10,20 @@ Download latest Tb Beta from Mozilla, install in opt
 
 Remove Fx Release
 
-sudo apt-get install git 
+```sudo apt-get install git``` 
 
 From Software install (Snap where appropriate)
 
-GNOME Disks
-Startup Disk Creator
-Firefox (Snap)
-Josm
-nmap (followed by sudo snap connect nmap:network-control)
-scrcpy
+* GNOME Disks
+* Startup Disk Creator
+* Firefox (Snap)
+* Josm
+* nmap (followed by ```sudo snap connect nmap:network-control```)
+* scrcpy
+* Zoom
 
-git clone https://github.com/SeburoSUMO/scrcpy.git
-git clone https://github.com/SeburoSUMO/Nightly.desktop.git
-git clone https://github.com/SeburoSUMO/Thunderbird-Mail.desktop.git
+```git clone https://github.com/SeburoSUMO/scrcpy.git```
 
-Zoom - from Zoom site (use version for older versions of Ubuntu)
+```git clone https://github.com/SeburoSUMO/Nightly.desktop.git```
+
+```git clone https://github.com/SeburoSUMO/Thunderbird-Mail.desktop.git```
