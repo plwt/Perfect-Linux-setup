@@ -12,6 +12,8 @@ Remove Fx Release
 
 ```sudo apt-get install git``` 
 
+```sudo apt install docker.io```  (followed by ```sudo systemctl enable --now docker```)
+
 From Software install (Snap where appropriate)
 
 * GNOME Disks
