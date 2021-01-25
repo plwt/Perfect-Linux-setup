@@ -4,7 +4,7 @@ Latest Xubuntu LTS
 
 ```sudo thunar``` to change permissions on opt
 
-Download latest Fx Nightly from Mozilla, install in opt
+```wget 'https://download.mozilla.org/?product=firefox-nightly-latest-ssl&os=linux64&lang=en-GB' -O firefox-nightly.tar.bz2``` install in opt
 
 Download latest Tb Beta from Mozilla, install in opt
 
