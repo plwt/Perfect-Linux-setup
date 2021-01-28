@@ -29,3 +29,5 @@ From Software install (Snap where appropriate)
 ```git clone https://github.com/SeburoSUMO/Nightly.desktop.git```
 
 ```git clone https://github.com/SeburoSUMO/Thunderbird-Mail.desktop.git```
+
+```git clone https://github.com/EliverLara/candy-icons```
