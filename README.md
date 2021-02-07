@@ -8,8 +8,6 @@ Latest Xubuntu LTS
 
 Download latest Tb Beta from Mozilla, install in opt
 
-Remove Fx Release
-
 ```sudo apt-get install git``` 
 
 ```sudo apt install docker.io```  (followed by ```sudo systemctl enable --now docker```)
@@ -18,16 +16,16 @@ From Software install (Snap where appropriate)
 
 * GNOME Disks
 * Startup Disk Creator
-* Firefox (Snap)
 * Josm
 * nmap (followed by ```sudo snap connect nmap:network-control```)
 * scrcpy
 * Zoom
+* Android Studio
 
-```git clone https://github.com/SeburoSUMO/scrcpy.git```
+```git clone https://github.com/SeburoSUMO/scrcpy.git``` (install in .local/share/applications/ folder in Home)
 
-```git clone https://github.com/SeburoSUMO/Nightly.desktop.git```
+```git clone https://github.com/SeburoSUMO/Nightly.desktop.git``` (install in .local/share/applications/ folder in Home)
 
-```git clone https://github.com/SeburoSUMO/Thunderbird-Mail.desktop.git```
+```git clone https://github.com/SeburoSUMO/Thunderbird-Mail.desktop.git``` (install in .local/share/applications/ folder in Home)
 
-```git clone https://github.com/EliverLara/candy-icons```
+```git clone https://github.com/EliverLara/candy-icons``` (install in .icons folder in Home)
