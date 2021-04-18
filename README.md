@@ -21,6 +21,7 @@ From Software install (Snap where appropriate)
 * scrcpy
 * Zoom
 * Android Studio
+* Node.js
 
 ```git clone https://github.com/SeburoSUMO/scrcpy.git``` (install in .local/share/applications/ folder in Home)
 
