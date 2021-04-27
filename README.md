@@ -30,3 +30,7 @@ From Software install (Snap where appropriate)
 ```git clone https://github.com/SeburoSUMO/Thunderbird-Mail.desktop.git``` (install in .local/share/applications/ folder in Home)
 
 ```git clone https://github.com/EliverLara/candy-icons``` (install in .icons folder in Home)
+
+```tar xf mozregression-gui.tar.gz```, move to opt and ```git clone https://github.com/SeburoSUMO/mozregression-shortcut.git``` for the shortcut
+
+```npm install -g addons-linter```
