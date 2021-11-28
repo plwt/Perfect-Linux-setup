@@ -17,19 +17,17 @@ From Software install (Snap where appropriate)
 * GNOME Disks
 * Startup Disk Creator
 * Josm
-* nmap (followed by ```sudo snap connect nmap:network-control```)
 * scrcpy
 * Zoom
 * Android Studio
 * Node.js
+* VS Code
 
 ```git clone https://github.com/SeburoSUMO/scrcpy.git``` (install in .local/share/applications/ folder in Home)
 
 ```git clone https://github.com/SeburoSUMO/Nightly.desktop.git``` (install in .local/share/applications/ folder in Home)
 
 ```git clone https://github.com/SeburoSUMO/Thunderbird-Mail.desktop.git``` (install in .local/share/applications/ folder in Home)
-
-```git clone https://github.com/EliverLara/candy-icons``` (install in .icons folder in Home)
 
 ```tar xf mozregression-gui.tar.gz```, move to opt and ```git clone https://github.com/SeburoSUMO/mozregression-shortcut.git``` for the shortcut
 
