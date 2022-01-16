@@ -29,10 +29,12 @@ Download latest Tb Beta from Mozilla, install in opt
 ### Install Snap:
 
 ```sudo apt install snapd```
+
 ```sudo apt install core```
+
 ```sudo ln -s /etc/profile.d/apps-bin-path.sh /etc/X11/Xsession.d/99snap```
 
-Add the end of ```/etc/login.defs```:
+Add the end of (edit in Mousepad) ```/etc/login.defs```:
 
 ```ENV_PATH PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin```
 
@@ -40,9 +42,13 @@ Add the end of ```/etc/login.defs```:
 ### Other:
 
 ```sudo snap install josm```
+
 ```sudo snap install code --classic```
+
 ```sudo snap install zoom-client```
+
 ```sudo snap install jupyter```
+
 ```sudo snap install gimp```
 
 
