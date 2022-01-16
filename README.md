@@ -43,6 +43,7 @@ Add the end of ```/etc/login.defs```:
 ```sudo snap install code --classic```
 ```sudo snap install zoom-client```
 ```sudo snap install jupyter```
+```sudo snap install gimp```
 
 
 ## From Synaptic:
