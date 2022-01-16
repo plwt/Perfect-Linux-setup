@@ -5,12 +5,12 @@ Latest Debian stable, non-free with Xfce.  Run as live .iso and then install (to
 ```sudo thunar``` to change permissions on opt
 
 
-## Install Git
+### Install Git
 
 ```sudo apt-get install git```
 
 
-## Install Fx (Nightly) and Tb
+### Install Fx (Nightly) and Tb
 
 ```wget 'https://download.mozilla.org/?product=firefox-nightly-latest-ssl&os=linux64&lang=en-GB' -O firefox-nightly.tar.bz2``` install in opt
 
@@ -21,12 +21,12 @@ Download latest Tb Beta from Mozilla, install in opt
 ```git clone https://github.com/SeburoSUMO/Thunderbird-Mail.desktop.git``` (install in .local/share/applications/ folder in Home)
 
 
-## Install Blueman
+### Install Blueman
 
 ```sudo apt-get install blueman```
 
 
-## Install Snap:
+### Install Snap:
 
 ```sudo apt install snapd```
 ```sudo apt install core```
@@ -37,7 +37,7 @@ Add the end of ```/etc/login.defs```:
 ```ENV_PATH PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin```
 
 
-## Other:
+### Other:
 
 ```sudo snap install josm```
 ```sudo snap install code --classic```
@@ -46,6 +46,6 @@ Add the end of ```/etc/login.defs```:
 ```sudo snap install gimp```
 
 
-## From Synaptic:
+### From Synaptic:
 
 * ADB
