@@ -62,3 +62,5 @@ Add the end of (edit in Mousepad) ```/etc/login.defs```:
 https://stackoverflow.com/questions/66025217/how-can-i-enable-auto-login-into-debian-10-xfce-session
 
 https://linuxhint.com/set_screen_resolution_linux_kernel_boot/
+
+https://askubuntu.com/questions/73804/wrong-login-screen-resolution
