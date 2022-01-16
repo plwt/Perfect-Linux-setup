@@ -55,3 +55,10 @@ Add the end of (edit in Mousepad) ```/etc/login.defs```:
 ### From Synaptic:
 
 * ADB
+
+
+#### Still looking into:
+
+https://stackoverflow.com/questions/66025217/how-can-i-enable-auto-login-into-debian-10-xfce-session
+
+https://linuxhint.com/set_screen_resolution_linux_kernel_boot/
