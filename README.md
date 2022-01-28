@@ -66,3 +66,5 @@ https://stackoverflow.com/questions/66025217/how-can-i-enable-auto-login-into-de
 https://linuxhint.com/set_screen_resolution_linux_kernel_boot/
 
 https://askubuntu.com/questions/73804/wrong-login-screen-resolution
+
+https://www.how2shout.com/linux/enable-or-disable-automatic-login-in-debian-11-bullseye/
