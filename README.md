@@ -68,3 +68,7 @@ https://linuxhint.com/set_screen_resolution_linux_kernel_boot/
 https://askubuntu.com/questions/73804/wrong-login-screen-resolution
 
 https://www.how2shout.com/linux/enable-or-disable-automatic-login-in-debian-11-bullseye/
+
+https://www.reddit.com/r/debian/comments/mhvhse/bluetooth_not_working_on_debian_11/
+
+https://www.reddit.com/r/debian/comments/rrzs7g/bluetooth_headphones_suddenly_disconnecting_on/
