@@ -16,9 +16,9 @@ Latest Debian stable, non-free with Xfce.  Run as live .iso and then install (to
 
 Download latest Tb Beta from Mozilla, install in opt
 
-```git clone https://github.com/SeburoSUMO/Nightly.desktop.git``` (install in .local/share/applications/ folder in Home)
+```git clone https://github.com/plwt/Nightly.desktop.git``` (install in .local/share/applications/ folder in Home)
 
-```git clone https://github.com/SeburoSUMO/Thunderbird-Mail.desktop.git``` (install in .local/share/applications/ folder in Home)
+```git clone https://github.com/plwt/Thunderbird-Mail.desktop.git``` (install in .local/share/applications/ folder in Home)
 
 
 ### Install Blueman
@@ -50,8 +50,6 @@ Add the end of (edit in Mousepad) ```/etc/login.defs```:
 ```sudo snap install jupyter```
 
 ```sudo snap install gimp```
-
-```sudo snap install obs-studio```
 
 
 ### From Synaptic:
