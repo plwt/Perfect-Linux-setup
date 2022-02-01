@@ -38,10 +38,6 @@ Add the end of (edit in Mousepad) ```/etc/login.defs```:
 
 ```ENV_PATH PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin```
 
-### Install Zip and Unzip
-
-```sudo apt install zip unzip```
-
 ### Other:
 
 ```sudo snap install josm```
