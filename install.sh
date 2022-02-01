@@ -2,7 +2,7 @@
 
 sudo apt-get install git blueman -yy
 
-sudo apt install snapd core zip unzip
+sudo apt install snapd core
 
 wget 'https://download.mozilla.org/?product=firefox-nightly-latest-ssl&os=linux64&lang=en-GB' -O firefox-nightly.tar.bz2
 
