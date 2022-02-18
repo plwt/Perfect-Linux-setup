@@ -30,6 +30,8 @@ Download latest Tb Beta from Mozilla, install in opt
 
 ```sudo apt install python3-pip```
 
+```sudo apt-get install python3-venv```
+
 
 ### Install Snap:
 
