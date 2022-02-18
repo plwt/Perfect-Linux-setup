@@ -26,6 +26,11 @@ Download latest Tb Beta from Mozilla, install in opt
 ```sudo apt-get install blueman```
 
 
+### Install PIP
+
+```sudo apt install python3-pip```
+
+
 ### Install Snap:
 
 ```sudo apt install snapd```
