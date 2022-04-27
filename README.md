@@ -57,6 +57,8 @@ Add the end of (edit in Mousepad) ```/etc/login.defs```:
 
 ```sudo snap install gimp```
 
+```sudo snap install android-studio --classic```
+
 
 ### From Synaptic:
 
