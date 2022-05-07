@@ -59,6 +59,8 @@ Add the end of (edit in Mousepad) ```/etc/login.defs```:
 
 ```sudo snap install android-studio --classic```
 
+```sudo snap install flutter --classic```
+
 
 ### From Synaptic:
 
