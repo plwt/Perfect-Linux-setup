@@ -7,7 +7,7 @@ Latest Xubuntu LTS.
 
 ### Install Git
 
-```sudo apt-get install git```ird-Mail.desktop.git```
+```sudo apt-get install git```
 
 ### Install PIP
 
