@@ -49,18 +49,3 @@ Add the end of (edit in Mousepad) ```/etc/login.defs```:
 
 * ADB
 
-
-### Make Bluetooth more stable
-
-Edit ```/etc/bluetooth/main.conf``` to uncomment ```ReconnectAttempts=7``` and ```FastConnectable=false``` and set to ```true``` 
-
-
-#### Still looking into:
-
-https://stackoverflow.com/questions/66025217/how-can-i-enable-auto-login-into-debian-10-xfce-session
-
-https://linuxhint.com/set_screen_resolution_linux_kernel_boot/
-
-https://askubuntu.com/questions/73804/wrong-login-screen-resolution
-
-https://www.how2shout.com/linux/enable-or-disable-automatic-login-in-debian-11-bullseye/
