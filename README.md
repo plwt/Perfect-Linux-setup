@@ -1,6 +1,6 @@
 # Perfect-Linux-setup
 
-Latest Debian stable, non-free with Xfce.  Run as live .iso and then install (to get the better installer).
+Latest Xubuntu LTS.
 
 ```sudo thunar``` to change permissions on opt
 
