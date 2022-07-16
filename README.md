@@ -7,19 +7,7 @@ Latest Xubuntu LTS.
 
 ### Install Git
 
-```sudo apt-get install git```
-
-
-### Install Fx (Nightly) and Tb
-
-```wget 'https://download.mozilla.org/?product=firefox-nightly-latest-ssl&os=linux64&lang=en-GB' -O firefox-nightly.tar.bz2``` install in opt
-
-Download latest Tb Beta from Mozilla, install in opt
-
-```git clone https://github.com/plwt/Nightly.desktop.git``` (install in .local/share/applications/ folder in Home)
-
-```git clone https://github.com/plwt/Thunderbird-Mail.desktop.git``` (install in .local/share/applications/ folder in Home)
-
+```sudo apt-get install git```ird-Mail.desktop.git```
 
 ### Install PIP
 
