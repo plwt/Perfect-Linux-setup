@@ -26,12 +26,3 @@ Latest Xubuntu LTS.
 
 ```sudo snap install jupyter```
 
-```sudo snap install gimp```
-
-```sudo snap install android-studio --classic```
-
-
-### From Synaptic:
-
-* ADB
-
