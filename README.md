@@ -8,11 +8,9 @@ Latest Xubuntu LTS.
 
 ```sudo apt-get install git```
 
-### Install PIP - if needed
+### Install virtualenv
 
-```sudo apt install python3-pip```
-
-```sudo apt-get install python3-venv```
+```python -m pip install --user virtualenv```
 
 ### Other:
 
