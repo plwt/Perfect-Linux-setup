@@ -14,8 +14,6 @@ Latest Xubuntu LTS.
 
 ### Other:
 
-```sudo snap install josm```
-
 ```sudo snap install code --classic```
 
 ```sudo snap install zoom-client```
