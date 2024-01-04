@@ -26,3 +26,17 @@ Latest Xubuntu LTS.
 4. Set shortcut.
 
 If xcb issue on trying to open ```anaconda-navigator```, try ```sudo apt-get install libxcb-render-util0 libxcb-image0 libxcb-keysyms1 libxcb-icccm4```
+
+
+# Debian
+
+Latest Debian stable with Xfce with non free
+
+Zoom
+VS code
+Anaconda
+
+Bluetooth
+Blueman
+Catfish
+su usermod -aG sudo username
