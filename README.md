@@ -33,10 +33,17 @@ If xcb issue on trying to open ```anaconda-navigator```, try ```sudo apt-get ins
 Latest Debian stable with Xfce with non free
 
 Zoom
-VS code
+
+VS Code
+
 Anaconda
 
 Bluetooth
+
 Blueman
+
 Catfish
-su usermod -aG sudo username
+
+```su```
+
+```sudo usermod -aG sudo username```
