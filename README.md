@@ -60,6 +60,8 @@ Anaconda
 https://ostechnix.com/install-debian-12-bookworm/
 
 https://www.tutorialspoint.com/how-to-add-user-to-sudoers-amp-add-user-to-sudo-group-on-centos-7
+
+https://www.cloudpanel.io/tutorial/how-to-add-user-to-sudoers-in-debian/
  
 
 ```su```
