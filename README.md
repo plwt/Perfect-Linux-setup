@@ -1,22 +1,43 @@
 # Perfect-Linux-setup
 
-Latest Xubuntu LTS.
+Latest Debian Stable Xfce with non-free firmware.
 
-```sudo thunar``` to change permissions on opt
+### Add user to Sudoers
 
-### Install Git
+```su usermod -aG sudo username```
 
-```sudo apt-get install git```
+### From Synaptic
 
-### Install virtualenv
+Git
 
-```python -m pip install --user virtualenv```
+Bluetooth
 
-### Other:
+Blueman
 
-```sudo snap install code --classic```
+Catfish
 
-```sudo snap install zoom-client```
+### Firefox Developer Edition
+
+#### Create a directory to store APT repository keys if it doesn't exist:
+```sudo install -d -m 0755 /etc/apt/keyrings```
+
+#### Import the Mozilla APT repository signing key:
+```wget -q https://packages.mozilla.org/apt/repo-signing-key.gpg -O- | sudo tee /etc/apt/keyrings/packages.mozilla.org.asc > /dev/null```
+
+#### The fingerprint should be 35BAA0B33E9EB396F59CA838C0BA5CE6DC6315A3
+```gpg -n -q --import --import-options import-show /etc/apt/keyrings/packages.mozilla.org.asc | awk '/pub/{getline; gsub(/^ +| +$/,""); print "\n"$0"\n"}'```
+
+#### Next, add the Mozilla APT repository to your sources list:
+```echo "deb [signed-by=/etc/apt/keyrings/packages.mozilla.org.asc] https://packages.mozilla.org/apt mozilla main" | sudo tee -a /etc/apt/sources.list.d/mozilla.list > /dev/null```
+
+#### Look for locales:
+```apt-cache search firefox-beta-l10n```
+
+#### Update your package list and install the Firefox .deb package:
+```sudo apt-get update && sudo apt-get install firefox-devedition-l10n-en-gb```
+
+
+
 
 ### Anaconda:
 
@@ -30,38 +51,16 @@ If xcb issue on trying to open ```anaconda-navigator```, try ```sudo apt-get ins
 
 # Debian
 
-Latest Debian stable with Xfce with non free
-
 Zoom
 
 VS Code
 
 Anaconda
 
-Bluetooth
+https://ostechnix.com/install-debian-12-bookworm/
 
-Blueman
-
-Catfish
-
-
-# Create a directory to store APT repository keys if it doesn't exist:
-sudo install -d -m 0755 /etc/apt/keyrings
-
-# Import the Mozilla APT repository signing key:
-wget -q https://packages.mozilla.org/apt/repo-signing-key.gpg -O- | sudo tee /etc/apt/keyrings/packages.mozilla.org.asc > /dev/null
-
-# The fingerprint should be 35BAA0B33E9EB396F59CA838C0BA5CE6DC6315A3
-gpg -n -q --import --import-options import-show /etc/apt/keyrings/packages.mozilla.org.asc | awk '/pub/{getline; gsub(/^ +| +$/,""); print "\n"$0"\n"}'
-
-# Next, add the Mozilla APT repository to your sources list:
-echo "deb [signed-by=/etc/apt/keyrings/packages.mozilla.org.asc] https://packages.mozilla.org/apt mozilla main" | sudo tee -a /etc/apt/sources.list.d/mozilla.list > /dev/null
-
-# Look for locales:
-apt-cache search firefox-beta-l10n
-
-# Update your package list and install the Firefox .deb package:
-sudo apt-get update && sudo apt-get install firefox-devedition-l10n-en-gb  
+https://www.tutorialspoint.com/how-to-add-user-to-sudoers-amp-add-user-to-sudo-group-on-centos-7
+ 
 
 ```su```
 
