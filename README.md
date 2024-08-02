@@ -67,3 +67,11 @@ https://www.cloudpanel.io/tutorial/how-to-add-user-to-sudoers-in-debian/
 ```su```
 
 ```sudo usermod -aG sudo username```
+
+easier sign in with:
+
+```sudo nano /etc/lightdm/lightdm.conf```
+
+Remove the "#" at the start of this line and make sure that it ends with "=false":
+
+```#greeter-hide-users=false```
