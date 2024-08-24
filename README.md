@@ -16,7 +16,7 @@ Blueman
 
 Catfish
 
-###Others:
+### Others:
 
 Zoom
 
@@ -31,14 +31,7 @@ VS Code
 
 If xcb issue on trying to open ```anaconda-navigator```, try ```sudo apt-get install libxcb-render-util0 libxcb-image0 libxcb-keysyms1 libxcb-icccm4```
 
-
-# Debian
-
-Zoom
-
-VS Code
-
-Anaconda
+## Notes
 
 https://ostechnix.com/install-debian-12-bookworm/
 
