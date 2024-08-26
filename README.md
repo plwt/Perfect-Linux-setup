@@ -55,4 +55,6 @@ Remove the "#" at the start of this line and make sure that it ends with "=false
 
 ```sudo nano /etc/default/grub```
 
+change the GRUB_TIMEOUT value from 5 to 1
+
 ```sudo update-grub```
