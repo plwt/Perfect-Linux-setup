@@ -51,3 +51,8 @@ easier sign in with:
 Remove the "#" at the start of this line and make sure that it ends with "=false":
 
 ```#greeter-hide-users=false```
+
+
+```sudo nano /etc/default/grub```
+
+```sudo update-grub```
