@@ -20,8 +20,6 @@ Catfish
 
 Zoom
 
-VS Code
-
 ### Anaconda:
 
 1. Download the installer from ```https://repo.anaconda.com/archive/```, using the version just after the LTS launch date.
